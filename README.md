@@ -8,6 +8,6 @@ Instructions on how to use FlexboxLayout can be found in the following Google Re
 
 #Setup
 * Available on NuGet: https://www.nuget.org/packages/FlexboxLayoutXamarinBindingAndroid/
-* PM> Install-Package FlexboxLayoutXamarinBindingAndroid
+* `PM> Install-Package FlexboxLayoutXamarinBindingAndroid`
 * Install into your Xamarin.Android projects.
 * Once installed, follow instructions here https://github.com/google/flexbox-layout
