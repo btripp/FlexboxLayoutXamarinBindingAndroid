@@ -16,7 +16,7 @@
     <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
     <PackageId>FlexboxLayoutXamarinBindingAndroid</PackageId>
-    <PackageVersion>1.0.1</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
     <Authors>Brandon Tripp</Authors>
     <Owners>btrippcsci</Owners>
     <PackageProjectUrl>https://github.com/btripp/FlexboxLayoutXamarinBindingAndroid</PackageProjectUrl>
