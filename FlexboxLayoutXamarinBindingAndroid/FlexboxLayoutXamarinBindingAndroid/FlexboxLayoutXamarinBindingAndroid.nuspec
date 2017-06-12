@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FlexboxLayoutXamarinBindingAndroid</id>
+    <version>1.0.1</version>
+    <title>FlexboxLayout Binding for Xamarin Android</title>
+    <authors>Brandon Tripp</authors>
+    <owners>btrippcsci</owners>
+    <projectUrl>https://github.com/btripp/FlexboxLayoutXamarinBindingAndroid</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a binding library of Googles FlexBoxLayout. This control allows you to use something similar to a LinearLayout that can wrap to the next line. Before this library, this was a very difficult task. https://github.com/google/flexbox-layout</description>
+    <releaseNotes>This Binding uses Googles FlexBoxLayout 0.2.3</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>FlexBoxLayout Google Flex Box Wrapping LinearLayout Xamarin Plugin Binding</tags>
+  </metadata>
+</package>
